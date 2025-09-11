@@ -1,0 +1,78 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.scc
+
+# Rider
+.idea/
+*.sln.iml
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+[Bb]uilds/
+
+# MAUI
+*.apk
+*.aab
+*.app
+*.ipa
+*.xcarchive
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+*.xcuserdata
+*.DS_Store
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.orig
+*.rej
+*.log
+*.vsconfig
+
+# Node
+node_modules/
+
+# DocFX
+_site/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride 
+
